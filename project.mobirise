@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TK Kuncup Mekar",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -67,7 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "publishEditFolder": false
   },
   "pages": {
