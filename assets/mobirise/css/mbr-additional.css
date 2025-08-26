@@ -1431,7 +1431,7 @@ a {
   text-align: left;
 }
 .cid-uUQ5QAayUE {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
@@ -1496,7 +1496,7 @@ a {
 }
 .cid-uUf57Mxx8p {
   padding-top: 1rem;
-  padding-bottom: 7rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
 .cid-uUf57Mxx8p .mbr-fallback-image.disabled {
@@ -1521,7 +1521,7 @@ a {
 }
 .cid-uUf8et4ulf {
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
 .cid-uUf8et4ulf .mbr-fallback-image.disabled {
@@ -1546,7 +1546,7 @@ a {
 }
 .cid-uURWlAfvsF {
   padding-top: 2rem;
-  padding-bottom: 10rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
 .cid-uURWlAfvsF .mbr-fallback-image.disabled {
@@ -2885,7 +2885,7 @@ a {
   }
 }
 .cid-uUOiUDHtXJ {
-  padding-top: 1rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
@@ -6814,8 +6814,8 @@ a {
   }
 }
 .cid-uUHTixPprw {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 7rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/image-background-colorful-minimal-phone-wallpaper-3-1080x1920.png");
 }
 .cid-uUHTixPprw .mbr-overlay {
@@ -6845,18 +6845,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uUHTixPprw .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-uUHTixPprw .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-uUHTixPprw .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-uUHTixPprw .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-uUHTixPprw .mbr-section-btn {
